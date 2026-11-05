@@ -1,0 +1,6 @@
+{
+  "name": "DroidTerm",
+  "description": "Advanced Linux terminal, file manager, package ecosystem and development environment for Android",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
